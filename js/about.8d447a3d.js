@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmusic_app"]=self["webpackChunkmusic_app"]||[]).push([[443],{5017:function(n,u,a){a.r(u),a.d(u,{default:function(){return f}});var s=a(3102);const t={class:"about"},c=(0,s._)("h1",null,"This is an about page",-1),e=[c];function r(n,u){return(0,s.wg)(),(0,s.iD)("div",t,e)}var i=a(1144);const p={},o=(0,i.Z)(p,[["render",r]]);var f=o}}]);
+//# sourceMappingURL=about.8d447a3d.js.map
